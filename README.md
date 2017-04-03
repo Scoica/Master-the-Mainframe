@@ -39,6 +39,7 @@ Checkpoint: 29-Mar-2017: http://mtm2016.mybluemix.net/part_two/part_two_ch06.htm
 
 Checkpoint: 01-Apr-2017: http://mtm2016.mybluemix.net/part_two/part_two_ch09.html
 
-
+Checkpoint: 03-Apr-2017: http://mtm2016.mybluemix.net/part_two/part_two_ch09.html
+		Not finished YET!!!
 
 
