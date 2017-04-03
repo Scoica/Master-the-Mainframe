@@ -2,6 +2,7 @@
 IBM Master the Mainframe 2016 challenges
 
 !!! An user can try to logon only 3 times. If all tries are unsuccessfull the account is suspended.
+
 user:	150
 pass:	(mainframe password)
 
@@ -35,6 +36,7 @@ http://mtm2016.mybluemix.net/references/references_reset_dataset.html
 
  
 Checkpoint: 29-Mar-2017: http://mtm2016.mybluemix.net/part_two/part_two_ch06.html
+
 Checkpoint: 01-Apr-2017: http://mtm2016.mybluemix.net/part_two/part_two_ch09.html
 
 
