@@ -12,15 +12,15 @@ RESET DATASET's:
 
 http://mtm2016.mybluemix.net/references/references_reset_dataset.html
 
-" Nothing in this world can take the place of persistence.                                                                            
+	Nothing in this world can take the place of persistence.                                                                         
 	
-  Talent will not: nothing is more common than unsuccessful        
-	men with talent.                                                 
-                                                                
+	Talent will not: nothing is more common than unsuccessful men with talent.
+	
 	Genius will not: unrewarded genius is almost a proverb.          
+	
 	Education will not: the world is full of educated derelicts.     
                                                                  
-	Persistence and determination alone are omnipotent. "
+	Persistence and determination alone are omnipotent.
 
  ISPF EDITOR COMMANDS: http://mtm2016.mybluemix.net/references/references_ISPF_Editor_Summary.html
 
