@@ -1,8 +1,10 @@
 # Master-the-Mainframe
 IBM Master the Mainframe 2016 challenges
 
-user:	AU00150
-pass:	and5st0
+!!! An user can try to logon only 3 times. If all tries are unsuccessfull the account is suspended.
+
+user:	150
+pass:	(mainframe password)
 
 'CC#####.P2.OUTPUT'. This data set is very important -- it will eventually contain all of your work to be graded for Part 2. 
 From here on out, we will refer to this data set as OUTPUT or P2.OUTPUT. 
@@ -34,6 +36,7 @@ http://mtm2016.mybluemix.net/references/references_reset_dataset.html
 
  
 Checkpoint: 29-Mar-2017: http://mtm2016.mybluemix.net/part_two/part_two_ch06.html
+
 Checkpoint: 01-Apr-2017: http://mtm2016.mybluemix.net/part_two/part_two_ch09.html
 
 
